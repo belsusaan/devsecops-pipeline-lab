@@ -10,7 +10,7 @@ variable "aws_region" {
 
 variable "bucket_name" {
 
-  description = "bucket_name=devsecops-lab-beltran-2026"
+  description = "Nombre único global del bucket S3"
 
   type = string
 
